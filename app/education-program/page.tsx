@@ -51,7 +51,7 @@ export default function EducationProgramPage() {
       <section className="relative py-24 bg-gradient-to-r from-blue-600 to-indigo-700 text-white overflow-hidden">
         <div className="absolute inset-0 overflow-hidden">
           <div className="absolute inset-0 bg-black/30"></div>
-          <div className="absolute w-full h-full bg-[url('https://mj-ahmad.github.io/mja2025/img/edu1.png')] bg-cover bg-center opacity-20"></div>
+          <div className="absolute w-full h-full bg-[url('/img/onec1.png.jpeg)] bg-cover bg-center opacity-20"></div>
           {/* Animated code particles */}
           <div className="absolute inset-0 opacity-10">
             <div className="absolute top-1/4 left-1/4 text-2xl font-mono">&lt;div&gt;</div>
