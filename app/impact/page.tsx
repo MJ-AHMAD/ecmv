@@ -83,7 +83,7 @@ export default function ImpactPage() {
       <section className="relative py-20 md:py-28 bg-gradient-to-r from-primary/90 to-primary/70 text-white">
         <div className="absolute inset-0 overflow-hidden">
           <div className="absolute inset-0 bg-black/30"></div>
-          <div className="absolute w-full h-full bg-[url('https://mj-ahmad.github.io/mja2025/img/edu1.png')] bg-cover bg-center opacity-20"></div>
+          <div className="absolute w-full h-full bg-[url('https://mj-ahmad.github.io/ecmv/public/img/onec1.png')] bg-cover bg-center opacity-20"></div>
         </div>
         <div className="container relative z-10">
           <div className="max-w-3xl mx-auto text-center">
